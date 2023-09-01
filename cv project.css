@@ -1,0 +1,90 @@
+*{margin: 0;
+    padding: 0;
+}
+
+body{background-color:aquamarine;}
+
+.container{background-color: aqua;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    
+    
+
+
+}
+
+
+.header{
+
+}
+.profile-img{ width: 180px; height: 150px;
+             border: 3px solid white;
+             border-radius: 50%;
+             float: left;
+
+}
+.header-bio{
+    color: blue;
+    float: left;
+    padding: 30px;
+}
+.header-contact{
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+}
+.header-contact a{
+    text-decoration: none;
+}
+
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.div-clear{clear: both;}
+.hr-style{
+    border: 3px solid black;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: none;
+}
+#parsonal-section{
+
+}
+.content{
+
+}
+.left-div{float: left;
+    width: 30%;
+    color:blue;
+
+}
+.right-div{
+    float: left;
+    width: 70%;
+
+}
+.edu-template-left{float: left;width: 45%;}
+
+.edu-template-right{float: left;width: 45%;
+padding-left: 20px;}
+.comon-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    margin: 20px auto;
+}
+h1,h2,h3,h4,h5,h6{color: blue;
+font-family: Arial, Helvetica, sans-serif;}
+
+.bottom-container{background-color: black;
+                   text-align: center;
+                   padding: 10px;
+                }
+            
+.bottom-container a{color: white;
+    text-decoration: none;
+     margin: 20px;}
+
+    .bottom-container p{color:white;
+    margin-top: 20px;}
